@@ -15,12 +15,11 @@ No such placement is claimed here.
   the PostgreSQL-backed assessment workflow discussed and pictured in the showcase.
 - [Earlier pitch/demo branch](https://github.com/Eye172/whitebox-ai-1/tree/pitch-deck-demo-video/pitch):
   contains `WhiteBoxAI-NFC-2026.pdf` and the earlier competition video.
-- [Original public snapshot](https://github.com/pip00sya/whitebox-ai): an earlier version.
+- [Public studio source](https://github.com/pip00sya/whitebox-ai): the later studio is now included on `main`; the earlier public snapshot remains in Git history.
 - [Retained local development video](../media/whitebox-demo.mp4): the studio-demo walkthrough.
 - [Retained competition pitch deck](../media/WhiteBoxAI-NFC-2026.pdf): the original NFC presentation.
 
-Eye172 source branches currently require access. They are not described as publicly
-accessible code. Screenshots and the included development video are public presentation
+The Eye172 archive branches require access; the later studio source is publicly available in `pip00sya/whitebox-ai`. Screenshots and the included development video are public presentation
 materials; they do not establish validated hiring outcomes.
 
 

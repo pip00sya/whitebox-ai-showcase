@@ -93,10 +93,11 @@ synthetic demonstration data. Its implementation is represented by the `p0-p1-bu
 branch of the Eye172 repository. The video included here is the retained local
 development-demo walkthrough, rather than a new live hiring session.
 
-The default `master` branch and the earlier pitch branch preserve older prototype
-iterations. They should not be mistaken for the later studio implementation. The
-[original public repository](https://github.com/pip00sya/whitebox-ai) is also an earlier
-snapshot, not evidence that every feature pictured here exists in that snapshot.
+The Eye172 copy retains earlier prototype and competition-pitch branches.
+The [public source repository](https://github.com/pip00sya/whitebox-ai) now includes
+the later working studio on `main`, local setup instructions and the original
+public history. The [publication record](https://github.com/pip00sya/whitebox-ai/blob/main/docs/SOURCE-PUBLICATION.md)
+identifies the imported version. The earlier public snapshot remains in Git history.
 
 ---
 
@@ -115,7 +116,7 @@ This public case study is maintained on Nurkhan's account.
 [Companion showcase on Shakhnazar's account](https://github.com/Eye172/whitebox-ai-showcase) ·
 [Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
 
-[Later studio source branch](https://github.com/Eye172/whitebox-ai-1/tree/p0-p1-build) (currently requires access) · [Earlier public snapshot](https://github.com/pip00sya/whitebox-ai).
+[Public studio source and setup](https://github.com/pip00sya/whitebox-ai) · [Eye172 studio archive](https://github.com/Eye172/whitebox-ai-1/tree/p0-p1-build) (currently requires access).
 
 [Hackathon record and supporting sources](docs/HACKATHON.md) ·
 [Media provenance](docs/MEDIA.md).
