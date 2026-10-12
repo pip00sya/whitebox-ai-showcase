@@ -13,6 +13,25 @@ A hiring-assessment workspace in which the job criteria, candidate evidence, sco
 [Read the competition pitch deck](media/WhiteBoxAI-NFC-2026.pdf) ·
 [Competition and version record](docs/HACKATHON.md)
 
+## See authoring, evidence and the human decision
+
+[![The recorded WhiteBox studio walkthrough begins with the job and assessment configuration.](media/demo-preview.jpg)](media/whitebox-demo.mp4)
+
+**[▶ Open the 1:24 studio walkthrough](media/whitebox-demo.mp4)** ·
+[Run the public studio](https://github.com/pip00sya/whitebox-ai#run-the-studio-locally) ·
+[Technical walkthrough](docs/TECHNICAL.md)
+
+Approximate scene positions: **0:15** vacancy authoring, **0:31** invitation,
+**0:48** recorded interview, **1:05** evidence review and **1:18** candidate review.
+It is a retained development demonstration with scripted job answers, not a
+real recruitment decision or a new production-validity study.
+
+[![The original National Founder Cup presentation cover.](media/pitch-preview.jpg)](media/WhiteBoxAI-NFC-2026.pdf)
+
+[Competition deck — PDF](media/WhiteBoxAI-NFC-2026.pdf) ·
+[Editable deck — PPTX](media/WhiteBoxAI-NFC-2026.pptx).
+The competition pitch and later studio are different versions of the project.
+
 ## Fix the criteria before reviewing the answers
 
 An assessment is difficult to audit when questions, weights or evaluation criteria quietly change between candidates. WhiteBox starts with the vacancy: job analysis, criteria, evidence methods, stages, behavioural scoring anchors, weights and governance are assembled before publication.
@@ -113,10 +132,10 @@ partners across the project.
 
 
 This public case study is maintained on Nurkhan's account.
-[Companion showcase on Shakhnazar's account](https://github.com/Eye172/whitebox-ai-showcase) ·
+[Public project on Shakhnazar’s account](https://github.com/Eye172/whitebox-ai-1) ·
 [Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
 
-[Public studio source and setup](https://github.com/pip00sya/whitebox-ai) · [Eye172 studio archive](https://github.com/Eye172/whitebox-ai-1/tree/p0-p1-build) (currently requires access).
+[Public studio source and setup](https://github.com/pip00sya/whitebox-ai) · [Eye172 studio archive](https://github.com/Eye172/whitebox-ai-1/tree/p0-p1-build) (public at the 12 October 2026 review).
 
 [Hackathon record and supporting sources](docs/HACKATHON.md) ·
 [Media provenance](docs/MEDIA.md).
